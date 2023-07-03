@@ -1,0 +1,4 @@
+﻿  Path_planning_MQTT.cpp
+D:\projects\drone\main_drone_proj\path_planning\Path_planning_MQTT\Path_planning_MQTT\Path_planning_MQTT.cpp(51,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\drone\main_drone_proj\path_planning\Path_planning_MQTT\Path_planning_MQTT\Path_planning_MQTT.cpp(61,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Path_planning_MQTT.vcxproj -> D:\projects\drone\main_drone_proj\path_planning\Path_planning_MQTT\x64\Debug\Path_planning_MQTT.exe

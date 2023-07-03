@@ -1,0 +1,5 @@
+﻿  user.cpp
+C:\mqtt\paho-cpp\include\mqtt\client.h(71,13): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+C:\mqtt\paho-cpp\include\mqtt\client.h(74,13): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+C:\mqtt\paho-cpp\include\mqtt\client.h(81,13): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+  user.vcxproj -> D:\projects\drone\main_drone_proj\path_planning\Path_planning_MQTT\x64\Debug\user.exe
